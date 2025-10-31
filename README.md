@@ -16,7 +16,7 @@ The goal of this task was to analyze VPN functionality, verify encryption, and c
 
 - **VPN Used:** ProtonVPN 
 - **Browser:** Google Chrome   
-- **Operating System:** Windows 10  
+- **Operating System:** Windows
 - **VPN Server Location:** Singapore  
 - **Testing Tool:** [WhatIsMyIPAddress.com](https://whatismyipaddress.com)  
 
@@ -33,7 +33,7 @@ The goal of this task was to analyze VPN functionality, verify encryption, and c
 
 ### **Phase 2 – Download and Installation**
 - Downloaded ProtonVPN from the official website: [https://protonvpn.com/download](https://protonvpn.com/download).  
-- Installed the client on Windows 10 and logged in with credentials.  
+- Installed the client on Windows and logged in with credentials.  
 - Verified installation by checking the client dashboard for available servers.
 
 ---
@@ -143,8 +143,3 @@ Despite minor speed reduction, VPN encryption significantly enhances data protec
 All VPN configurations and tests were performed for **educational and awareness purposes** only.  
 No unauthorized access, network intrusion, or data tampering was carried out during this exercise.
 
----
-
-## License
-
-This project is released under the [MIT License](https://opensource.org/licenses/MIT).
